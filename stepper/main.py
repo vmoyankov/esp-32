@@ -1,0 +1,3 @@
+import ustep
+
+ustep.main()
